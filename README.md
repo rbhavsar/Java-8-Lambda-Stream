@@ -5,10 +5,4 @@
 - Optional
 - Stream
 - Parallel Stream
-- Functional Interface 
-Predicate
-Consumer
-Function
-BiConsumer
-BiFunction
-Supplier
+- Functional Interface  ( Predicate, Consumer, Function,BiConsumer, BiFunction, Supplier )
